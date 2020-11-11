@@ -1,0 +1,4 @@
+------  instalação das dependências ------
+
+pip3 install dnspython
+pip3 install argparse
